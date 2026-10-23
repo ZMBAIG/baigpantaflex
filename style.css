@@ -45,7 +45,6 @@ body {
   background: #fff;
   -webkit-font-smoothing: antialiased;
 }
-
 .highlight-black {
   color: var(--ink);
   font-weight: 700;
